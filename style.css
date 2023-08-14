@@ -71,7 +71,7 @@ img {
 }
 
 .information-container {
-    padding: 0px 10% 32px;
+    padding: 0px 25% 64px;
 }
 
 .information-container h2 {
@@ -95,4 +95,24 @@ img {
 .card-caption {
     color: #1F2937;
     text-align: center;
+}
+
+.quote-container {
+    background-color: #E5E7EB;
+    padding: 64px 25% 64px;
+}
+
+.quote-container blockquote {
+    margin: 0px;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.quote-container div {
+    font-weight: bold;
+    text-align: right;
+    font-size: 24px;
+    padding-right: 24px;
 }
