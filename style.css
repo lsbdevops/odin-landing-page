@@ -151,3 +151,12 @@ img {
     border: 2px solid white;
     border-radius: 8px;
 }
+
+.footer {
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
