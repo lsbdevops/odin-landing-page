@@ -69,3 +69,30 @@ img {
     border: none;
     border-radius: 8px;
 }
+
+.information-container {
+    padding: 0px 10% 32px;
+}
+
+.information-container h2 {
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.card-graphic {
+    border: 2px solid blue;
+    border-radius: 12px;
+    margin: 0px auto;
+    height: 150px;
+}
+
+.card-container {
+    display: flex;
+    gap: 16px;
+}
+
+.card-caption {
+    color: #1F2937;
+    text-align: center;
+}
