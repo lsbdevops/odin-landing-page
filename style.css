@@ -116,3 +116,38 @@ img {
     font-size: 24px;
     padding-right: 24px;
 }
+
+.signup-container { 
+    padding: 64px 10%;
+    display: flex; 
+}
+
+.signup-box {
+    background-color: #3882f6;
+    padding: 32px 64px;
+    border-radius: 8px;
+    display: flex;
+    gap: 124px;
+    width: 100%;
+    justify-content: center;
+}
+
+.signup-box h3 {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.signup-button {
+    flex-shrink: 0;
+}
+
+.button-blue-inverted {
+    color: white;
+    background-color: #3882f6;
+    padding: 8px 24px;
+    margin-top: 8px;
+    border: 2px solid white;
+    border-radius: 8px;
+}
